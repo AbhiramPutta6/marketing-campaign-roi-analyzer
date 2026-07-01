@@ -40,7 +40,7 @@ The original, unmodified file is included as `marketing_campaign_RAW.csv`.
 
 ## Dashboard
 
-![Marketing ROI Dashboard](dashboard_screenshot.png)
+![Marketing ROI Dashboard]dashboard_export_final.pdf
 
 The full interactive file (`marketing_roi_dashboard.pbix`) and a static export (`dashboard_export_final.pdf`) are included in this repository.
 
